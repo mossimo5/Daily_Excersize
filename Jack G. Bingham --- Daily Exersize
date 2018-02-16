@@ -1,0 +1,9 @@
+# Jack G. Bingham --- Daily Exercise --- 02/18/2018
+
+hello = "Hello, "
+
+question = "how are you doing?"
+
+print (hello + question)
+
+ 
